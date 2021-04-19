@@ -5,4 +5,4 @@
 <p align="center"><image src="Capturar2.PNG"></p>
 
 <p align="center">Requisitos para salvar no Banco:</p>
-<p align="center">Ter postgres instalado, Porta 5432 e uma Database com nome "produto", a tabela o programa verifica se já existe, se não ele cria automatico</p>
+<p align="center">Ter postgres instalado, Porta 5432 e uma Database com nome "produto", <b>a tabela o programa verifica se já existe, se não ele cria automático</b></p>
